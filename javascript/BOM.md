@@ -1,4 +1,4 @@
-# I. BOM
+#BOM
 
 ## 1. 页面 window
 ```JavaScript
